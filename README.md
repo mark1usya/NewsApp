@@ -5,9 +5,13 @@ NewsApp is a Swift-based application built using the MVVM architecture. It fetch
 Features
 
  • API Integration: Fetches live news data from a third-party API.
+ 
  • JSON Parsing: Parses the fetched data and displays it in a structured format.
+ 
  • MVVM Architecture: Ensures clear separation of concerns and makes the app scalable and maintainable.
+ 
  • Dynamic UI: Displays the latest news headlines and detailed articles.
+ 
  • Error Handling: Handles API errors such as network issues or missing data gracefully.
 
 How to Install
