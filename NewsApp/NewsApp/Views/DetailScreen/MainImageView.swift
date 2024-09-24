@@ -1,9 +1,4 @@
-//
-//  MainImageView.swift
-//  NewsApp
-//
-//  Created by Mark Pashukevich on 16.09.24.
-//
+
 
 import SwiftUI
 
