@@ -1,9 +1,4 @@
-//
-//  TopArticleView.swift
-//  NewsApp
-//
-//  Created by Mark Pashukevich on 15.09.24.
-//
+
 
 import SwiftUI
 
