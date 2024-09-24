@@ -1,9 +1,4 @@
-//
-//  ViewModel.swift
-//  NewsApp
-//
-//  Created by Mark Pashukevich on 14.09.24.
-//
+
 
 import Foundation
 
